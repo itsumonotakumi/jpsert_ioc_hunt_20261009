@@ -23,6 +23,7 @@ python3 jpcert_ioc_hunt.py logs/ --since 2026-07-25 --allow-ip 203.0.113.10
 - それ以外の行(FW ログなど)は、IoC の IP と固有 UA だけ照合します
 
 ### 出力
+<img width="1332" height="929" alt="2026-10-09_09h42_12" src="https://github.com/user-attachments/assets/5239c964-c86e-4404-8d97-9ff63c3e33f8" />
 
 - 画面にサマリーを表示
 - `ioc_hunt_findings.csv`: 検出した行
